@@ -1,0 +1,31 @@
+[
+    {
+        "Zbozi": "Triko s logem Red Dwarf",
+        "ID": 1,
+        "Hlaska": "Jsem dospely, ale nehodlam se s tim smirit.",
+        "Barva": "černá",
+        "Cena": 300
+    },
+    {
+        "Zbozi": "Triko Trpaslicon",
+        "ID": 2,
+        "Hlaska": "Vir epidem byl podle ocekavani prodlouzen o jednu sezonu.",
+        "Barva": "zelená",
+        "Cena": 300
+    },
+    {
+        "Zbozi": "Mikina Červený Trpaslík",
+        "ID": 3,
+        "Hlaska": "Vesis si trenyrky na raminka, ze jo?",
+        "Barva": "černá",
+        "Cena": 490
+    },
+    {
+        "Zbozi": "Tílko Červený Trpaslík",
+        "ID": 4,
+        "Hlaska": "Vypadat jen o chloupek lip, tak me zakazou!",
+        "Barva": "bílá",
+        "Cena": 250
+    }
+]
+
